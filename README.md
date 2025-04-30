@@ -1,5 +1,5 @@
 # httpProxy
-A lightweight HTTP/HTTPS roxy server written in Go. This proxy supports both standard HTTP requests and HTTPS tunneling via the CONNECT method, with proper connection pooling, timeout handling, and header management.
+A lightweight HTTP/HTTPS proxy server written in Go. This proxy supports both standard HTTP requests and HTTPS tunneling via the CONNECT method, with proper connection pooling, timeout handling, and header management.
 
 ## Features
 - Full support for HTTP and HTTPS proxying
